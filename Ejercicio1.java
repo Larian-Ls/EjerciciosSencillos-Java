@@ -11,10 +11,10 @@ public class Ejercicio1 {
         int num_a = 100;
         int num_b = 50;
         
-        System.out.println(num_a + " + " + num_b + " = " + (num_a + num_b));
-        System.out.println(num_a + " - " + num_b + " = " + (num_a - num_b));
-        System.out.println(num_a + " x " + num_b + " = " + (num_a * num_b));
-        System.out.println(num_a + " / " + num_b + " = " + (num_a / num_b));
-        System.out.println(num_a + " % " + num_b + " = " + (num_a % num_b));
+        System.out.println(num_a + " + " + num_b + " = " + (num_a + num_b)); // sumar
+        System.out.println(num_a + " - " + num_b + " = " + (num_a - num_b)); // restar
+        System.out.println(num_a + " x " + num_b + " = " + (num_a * num_b)); // multiplicar
+        System.out.println(num_a + " / " + num_b + " = " + (num_a / num_b)); //dividir (cociente)
+        System.out.println(num_a + " % " + num_b + " = " + (num_a % num_b)); // dividir (resto)
     }
 }
